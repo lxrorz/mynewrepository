@@ -10,3 +10,5 @@ create a new branch is quick AND simple
 
 斯蒂芬斯蒂芬斯蒂芬
 第一次stash
+
+修改完bug
